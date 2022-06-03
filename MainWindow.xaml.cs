@@ -38,14 +38,6 @@ namespace DesktopContactsApp
             if (contacts is null)
                 return;
 
-            /*foreach (var contact in contacts)
-            {
-                contactsListView.Items.Add(new ListViewItem()
-                {
-                    Content = contact.ToString()
-                });
-            }*/
-
             contactsListView.ItemsSource = contacts;
         }
     }
