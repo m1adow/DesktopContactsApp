@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 D:\study\codes VS\DesktopContactsApp\App.xaml
-3-1961996713
+4-993155439
 
-81622507839
+9-1946177138
 1991809799133
-ContactDetailsWindow.xaml;MainWindow.xaml;NewContactWindow.xaml;
+ContactDetailsWindow.xaml;Controls\ContactControl.xaml;MainWindow.xaml;NewContactWindow.xaml;
 
 True
 

@@ -15,6 +15,9 @@ namespace DesktopContactsApp
         {
             InitializeComponent();
 
+            Owner = Application.Current.MainWindow;
+            WindowStartupLocation = WindowStartupLocation.CenterOwner;
+
             _contact = contact;
             ShowContactDetails(contact);
         }
